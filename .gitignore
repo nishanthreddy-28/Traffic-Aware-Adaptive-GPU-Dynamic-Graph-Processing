@@ -1,0 +1,11 @@
+# Compiled executables and build outputs
+*.exe
+build/
+cmake-build-*/
+
+# macOS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/

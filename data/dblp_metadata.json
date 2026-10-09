@@ -1,0 +1,17 @@
+{
+  "dataset_name": "LAW/dblp-2010",
+  "official_source": "SuiteSparse Matrix Collection (https://sparse.tamu.edu/LAW/dblp-2010)",
+  "paper_reference": "Hornet: An Efficient Data Structure for Dynamic Sparse Graphs and Matrices on GPUs (Table II)",
+  "original_vertices": 326186,
+  "original_nonzeros": 807700,
+  "subset_seed_vertex": 112425,
+  "subset_selection_method": "Deterministic BFS frontier expansion preserving dense collaboration cluster",
+  "subset_vertices": 100,
+  "subset_undirected_edges": 397,
+  "subset_directed_edges": 794,
+  "phase1_insertions": 50,
+  "phase2_deletions": 50,
+  "phase3_insertions": 15,
+  "phase3_deletions": 15,
+  "total_dynamic_updates": 130
+}
